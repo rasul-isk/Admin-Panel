@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# About Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates how to build Admin Dashboard by using React.
 
-## Available Scripts
+Following libraries were used: React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid
+
+
+
+### Available Scripts
 
 In the project directory, you can run:
 
